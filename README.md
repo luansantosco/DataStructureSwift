@@ -1,8 +1,8 @@
 # Data Structure using Swift
 
-This repository was created with the purpose of reviewing and consolidating my knowledge of Data Structures using Swift. Throughout this project, I will cover various topics such as lists, stacks, queues, trees, graphs, and sorting and searching algorithms, among other fundamental concepts.
+This project is part of the Data Structures course in the 4th semester of the Analysis and Systems Development program at Uniesp.
 
-The idea is to practice the implementation of these structures and algorithms, as well as explore their complexities and practical uses. This repository will serve as a personal reference to revisit concepts and as a space to share my progress with other developers interested in the topic.
+This repository was created with the purpose of reviewing and consolidating my knowledge of Data Structures using Swift. Throughout this project, I will cover various topics such as lists, stacks, queues, trees, graphs, and sorting and searching algorithms, among other fundamental concepts.
 
 ## Topics to be covered:
 
